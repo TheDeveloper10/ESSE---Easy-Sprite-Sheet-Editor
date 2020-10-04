@@ -1,0 +1,14 @@
+F:\VS Projects\ESSE\ESSE\bin\Debug\ESSE.exe.config
+F:\VS Projects\ESSE\ESSE\bin\Debug\ESSE.exe
+F:\VS Projects\ESSE\ESSE\bin\Debug\ESSE.pdb
+F:\VS Projects\ESSE\ESSE\obj\Debug\ESSE.csprojResolveAssemblyReference.cache
+F:\VS Projects\ESSE\ESSE\obj\Debug\ESSE.Properties.Resources.resources
+F:\VS Projects\ESSE\ESSE\obj\Debug\ESSE.csproj.GenerateResource.Cache
+F:\VS Projects\ESSE\ESSE\obj\Debug\ESSE.exe
+F:\VS Projects\ESSE\ESSE\obj\Debug\ESSE.pdb
+F:\VS Projects\ESSE\ESSE\obj\Debug\ESSE.ESSE_Form.resources
+F:\VS Projects\ESSE\ESSE\bin\Debug\System.Data.dll
+F:\VS Projects\ESSE\ESSE\bin\Debug\System.Deployment.dll
+F:\VS Projects\ESSE\ESSE\bin\Debug\System.dll
+F:\VS Projects\ESSE\ESSE\bin\Debug\System.Drawing.dll
+F:\VS Projects\ESSE\ESSE\bin\Debug\System.Windows.Forms.dll
